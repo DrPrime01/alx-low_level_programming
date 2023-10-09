@@ -1,7 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+/* Determine and print if the number is positive, zero, or negative */
 int main(void)
+/* Determine and print if the number is positive, zero, or negative */
 {
 int n;
 srand(time(0));
