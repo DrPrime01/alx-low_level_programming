@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* dcumentation for function main */
 int main(void)
 {
 char letter;
